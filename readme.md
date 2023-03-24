@@ -5,7 +5,7 @@ A simple script that allows you to prank your friends with fast typing speed.
 
 1. Go to the https://play.typeracer.com
 2. Open up browser console
-3. Paste the following into console right before the race starts
+3. Paste the following into console right after the race starts
 4. Enjoy!
 
 ## Script
